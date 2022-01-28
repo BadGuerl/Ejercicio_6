@@ -1,0 +1,21 @@
+
+body {
+    padding: 2em;
+    text-indent: 15px;
+}
+
+p {
+    color: rgb(63, 0, 211);
+}
+
+.miparrafo {
+    color: forestgreen;
+}
+
+div p{
+    color: rgb(255, 166, 0);
+}
+
+.miparrafo p{
+    color: rgb(201, 2, 2);
+}
